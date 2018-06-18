@@ -1,6 +1,5 @@
  <html>
  <head>
- <title>DOOR</title>
  </head>
          <body>
          Dope Door Opener:
