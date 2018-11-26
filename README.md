@@ -2,7 +2,7 @@ Sound Detection Program version 1.0 28/12/2015
 
 GENERAL USAGE NOTES
 ==========================
-- This programm control servo attạc to the door handle to open door on command by a smartphone connected to the internet.
+- A programm controling a servo attached to the door handle to open door on command by a smartphone connected to the internet.
 
 INSTALLATION REQUIREMENTS
 ==========================
